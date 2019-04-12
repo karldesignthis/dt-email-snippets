@@ -2,7 +2,8 @@
 
 The following are default snippets to be used to override links in all emails
 
-`*[x-apple-data-detectors], .x-gmail-data-detectors, .x-gmail-data-detectors *, .aBn {
+```
+*[x-apple-data-detectors], .x-gmail-data-detectors, .x-gmail-data-detectors *, .aBn {
   color: inherit !important;
   text-decoration: none !important;
   font-size: inherit !important;
@@ -17,4 +18,5 @@ The following are default snippets to be used to override links in all emails
   font-family: inherit;
   font-weight: inherit;
   line-height: inherit;
-}`
+}
+```
