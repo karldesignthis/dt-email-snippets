@@ -43,3 +43,12 @@ This snippet is for side by side items. You can change the width of the table wi
   </tr>
 </table>
 ```
+
+This snippet will fix gap issues in Pixel Outlook for Android 7. You wrap the ENTIRE email inside of a table.
+```
+<table cellpadding="0" border="0" width="650" style="margin:0;padding:0;border:0;width:650px;min-width:650px;background:#ffffff;border-collapse:collapse;">
+  <tr>
+    <td valign="top" style="margin:0;padding:20px 15px 15px;background:#ffffff;border-collapse:collapse;"> ENTIRE EMAIL </td>
+  </tr>
+</table>
+```
