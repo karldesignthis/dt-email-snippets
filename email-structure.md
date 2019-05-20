@@ -44,7 +44,7 @@ The following is the standard email header to allow for cross email compatibilit
 			margin:0;
 			padding:0;
 		}
-		@media screen and (max-width:XXXpx){
+		@media only screen and (max-width:XXXpx){
 		}
 	</style>
 </head>
