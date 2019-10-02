@@ -20,3 +20,10 @@ The following are default snippets to be used to override links in all emails
   line-height: inherit;
 }
 ```
+
+Gmail fix for 'download'
+
+```
+
+img + div { display:none; }
+```
