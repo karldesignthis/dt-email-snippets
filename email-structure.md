@@ -29,8 +29,12 @@ The following is the standard email header to allow for cross email compatibilit
   	<style type="text/css">
 		table,td{
 			border-collapse:collapse;
-			mso-table-lspace:0;
-			mso-table-rspace:0;
+			border-spacing:0;
+			mso-line-height-rule: exactly;
+			mso-margin-bottom-alt:0;
+			mso-margin-top-alt:0;
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
 		}
 		td{
 			border:0;
