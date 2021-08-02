@@ -12,7 +12,7 @@ The following snippet is an example of the right to left direction fix for top t
             <tr>
               <td width="247" dir="ltr" valign="top">
                 <![endif]-->
-                <table align="right" class="table-text" cellpadding="0" border="0" width="247" style="margin:0;padding:0;border:0;width:247px;min-width:247px;background:#fff;border-collapse:collapse;">
+                <table align="right" class="table-text" cellpadding="0" cellspacing="0" border="0" width="247" style="margin:0;padding:0;border:0;width:247px;min-width:247px;background:#fff;border-collapse:collapse;">
                   <tbody><tr>
                     <td valign="top" style="margin:0;padding:0;background:#ffffff;border-collapse:collapse;"></td>
                   </tr>
@@ -21,7 +21,7 @@ The following snippet is an example of the right to left direction fix for top t
               </td>
               <td width="353" dir="ltr" valign="top">
                 <![endif]-->
-                <table align="left" class="table-text" cellpadding="0" border="0" width="353" style="margin:0;padding:0;border:0;width:353px;min-width:353px;background:#ffffff;border-collapse:collapse;">
+                <table align="left" class="table-text" cellpadding="0" cellspacing="0" border="0" width="353" style="margin:0;padding:0;border:0;width:353px;min-width:353px;background:#ffffff;border-collapse:collapse;">
                   <tbody><tr>
                     <td valign="top" style="margin:0;padding:0;background:#ffffff;border-collapse:collapse;"></td>
                   </tr>
